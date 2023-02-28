@@ -79,7 +79,7 @@
     "angular": "^1.6.4"
   },
   "dependencies": {
-    "baobab": "^2.4.3",
+    "baobab": "^2.6.1",
     "dispatchr": "^0.3.3"
   }
 }
